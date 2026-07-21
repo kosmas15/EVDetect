@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper (see preferred-citation)."
+title: "EVDetect: A framework for orchestrated and AI-powered detection of cyber-attacks in EV charging networks"
+type: software
+authors:
+  - family-names: Lazaridis
+    given-names: Kosmas
+    affiliation: "Hellenic Open University"
+    email: klazarid@gmail.com
+  - family-names: Topouzelidis
+    given-names: Ioannis
+    affiliation: "Hellenic Open University"
+  - family-names: Vagionas
+    given-names: Ioannis
+    affiliation: "Hellenic Open University"
+  - family-names: Lekidis
+    given-names: Alexios
+    affiliation: "University of Thessaly"
+    email: alekidis@uth.gr
+license: MIT
+repository-code: "https://github.com/kosmas15/EVDetect"
+preferred-citation:
+  type: article
+  title: "EVDetect: A framework for orchestrated and AI-powered detection of cyber-attacks in EV charging networks"
+  authors:
+    - family-names: Lazaridis
+      given-names: Kosmas
+    - family-names: Topouzelidis
+      given-names: Ioannis
+    - family-names: Vagionas
+      given-names: Ioannis
+    - family-names: Lekidis
+      given-names: Alexios
+  journal: "Scientific Reports"
+  year: 2026
+  notes: "Under review. DOI will be added upon publication."
