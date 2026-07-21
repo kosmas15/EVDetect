@@ -1,8 +1,9 @@
 # EVDetect: Orchestrated and AI-Powered Detection of Cyber-Attacks
 
-This repository contains the source code, machine learning models, and evaluation framework for the study: **"EVDetect: A framework for orchestrated and AI-powered detection of cyber-attacks in EV charging networks"**, submitted to *Scientific Reports*.
+This repository contains the source code, machine-learning workflows, serialized evaluation splits, and evaluation framework supporting the study **“EVDetect: A framework for orchestrated and AI-powered detection of cyber-attacks in EV charging networks,”** submitted to *Scientific Reports*.
 
-**Archived version:** *(Placeholder — Zenodo DOI will be added here upon deposit.)*
+**Archived version:** EVDetect v1.0.0, Zenodo  
+**DOI:** [10.5281/zenodo.21476298](https://doi.org/10.5281/zenodo.21476298)
 
 ## Repository Structure
 
