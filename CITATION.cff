@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: Lazaridis
     given-names: Kosmas
-    affiliation: "Hellenic Open University"
+    affiliation: "Hellenic Open University; Mediterranean College (University of Derby)"
     email: klazarid@gmail.com
   - family-names: Topouzelidis
     given-names: Ioannis
@@ -33,4 +33,5 @@ preferred-citation:
       given-names: Alexios
   journal: "Scientific Reports"
   year: 2026
-  notes: "Under review. DOI will be added upon publication."
+  doi: "10.1038/s41598-026-67199-1"
+  url: "https://doi.org/10.1038/s41598-026-67199-1"

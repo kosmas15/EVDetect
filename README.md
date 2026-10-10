@@ -1,6 +1,6 @@
 # EVDetect: Orchestrated and AI-Powered Detection of Cyber-Attacks
 
-This repository contains the source code, machine-learning workflows, serialized evaluation splits, and evaluation framework supporting the study **“EVDetect: A framework for orchestrated and AI-powered detection of cyber-attacks in EV charging networks,”** submitted to *Scientific Reports*.
+This repository contains the source code, machine-learning workflows, serialized evaluation splits, and evaluation framework supporting the study **“EVDetect: A framework for orchestrated and AI-powered detection of cyber-attacks in EV charging networks,”** published in *Scientific Reports* (2026).
 
 **Archived version:** EVDetect v1.0.0, Zenodo  
 **DOI:** [10.5281/zenodo.21476298](https://doi.org/10.5281/zenodo.21476298)
@@ -71,6 +71,9 @@ Reactivate `evdetect_env` and execute notebook `05_bootstrap_cis.ipynb`. To prev
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
-## Citation
+## Publication and Citation
 
-*(Placeholder: citation information will be updated upon publication.)*
+**Published article:** Lazaridis, K., Topouzelidis, I., Vagionas, I. et al. (2026). EVDetect: a framework for orchestrated and AI-powered detection of cyber-attacks in EV charging networks. *Scientific Reports*. https://doi.org/10.1038/s41598-026-67199-1
+
+If you use this software or its associated research results, please cite the published article above. The repository also includes a [`CITATION.cff`](CITATION.cff) file for GitHub citation export.
+
